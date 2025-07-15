@@ -12,3 +12,18 @@ This project is licensed.
 5. Run Terminal/Command Prompt and run `cd Downloads/gltf2mc/`
 6. Then run `python3 run_gltf2mcb.py` or `python run_gltf2mcb.py` (if the first one doesn't work)
 7. You will see your .json file in the gltf2mc/Output folder
+
+
+***Disclamer***
+1. The copyright of the 3D models used for the converter are not related nor gltf2mc will take responsibilty of the inconvenience used.
+2. The converter does not import textures to the .json model. If adding textures, please use external software like Blockbench (https://www.blockbench.net/downloads) to import the texture.
+3. This converter shall not be used for commercial purposes or for-profit purposes
+4. This converter shall not be used for the training or other purposes with AI.
+5. Errors caused by the changing of this code will not be the responsibility of gltf2mc.
+6. The code should not be taken seriously and may cause damages, errors or unusual/weird tweaks.
+7. THIS IS THE ORIGINAL VERSION! Errors caused by other factors may cause damages, errors or unusual/weird tweaks.
+8. Please note that the voxel size is set to `0.1`. You may change this voxel size, the more higher the more low resolution. If there is errors when changed, we reccommend to use the default 0.1.
+9. The converter changes models to approximate cubes. Maximum cubes is set to `9000`. You may change the maximum cubes. The more the higher resolution. If there is errors, use the default `9000`.
+10. You may contribute to the development to make other alternative languages.
+11. There is no "official support page" to this day. Please kindly use SNS instead like Reddit or Quora.
+12. Requires Python!
